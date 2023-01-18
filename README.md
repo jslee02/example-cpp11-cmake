@@ -1,7 +1,7 @@
 # [Codecov][1] CI CMake g++ cpp11 lcov Example
 
 [![CMake](https://github.com/jslee02/example-cpp11-cmake/actions/workflows/cmake.yml/badge.svg)](https://github.com/jslee02/example-cpp11-cmake/actions/workflows/cmake.yml)
-[![codecov][codecov-badge]][codecov-link]
+[![codecov](https://codecov.io/gh/jslee02/example-cpp11-cmake/branch/master/graph/badge.svg?token=FWaTsVvYPS)](https://codecov.io/gh/jslee02/example-cpp11-cmake)
 
 The goal of this project is to build project with following tools:
  * C++ version: `C++11`
