@@ -1,9 +1,8 @@
 # [Codecov][1] CI CMake g++ cpp11 lcov Example
-[![Travis CI logo][travis-image]][travis-link]
 [![Codecov logo][codecov-image]][codecov-link]
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-cpp11-cmake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-cpp11-cmake?ref=badge_shield)
 
-[![Build Status][travis-badge]][travis-link]
+[![CMake](https://github.com/jslee02/example-cpp11-cmake/actions/workflows/cmake.yml/badge.svg)](https://github.com/jslee02/example-cpp11-cmake/actions/workflows/cmake.yml)
 [![codecov][codecov-badge]][codecov-link]
 [![MIT License][license-badge]](LICENSE.md)
 
@@ -91,13 +90,10 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 We are happy to help if you have any questions. Please email our Support at [support@codecov.io](mailto:support@codecov.io)
 
 [1]: https://codecov.io/
-[travis-badge]:    https://travis-ci.org/codecov/example-cpp11-cmake.svg?branch=master
-[travis-link]:     https://travis-ci.org/codecov/example-cpp11-cmake
-[travis-image]:    https://github.com/codecov/example-cpp1-cmake/blob/master/img/TravisCI.png
 [license-badge]:   https://img.shields.io/badge/license-MIT-007EC7.svg
-[codecov-badge]:   https://codecov.io/gh/codecov/example-cpp11-cmake/branch/master/graph/badge.svg
-[codecov-link]:    https://codecov.io/gh/codecov/example-cpp11-cmake
-[codecov-image]:   https://github.com/codecov/example-cpp1-cmake/blob/master/img/Codecov.png
+[codecov-badge]:   https://codecov.io/gh/jslee02/example-cpp11-cmake/branch/master/graph/badge.svg
+[codecov-link]:    https://codecov.io/gh/jslee02/example-cpp11-cmake
+[codecov-image]:   https://github.com/jslee02/example-cpp1-cmake/blob/master/img/Codecov.png
 
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-cpp11-cmake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-cpp11-cmake?ref=badge_large)
